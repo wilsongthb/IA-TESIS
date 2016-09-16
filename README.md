@@ -1,6 +1,6 @@
 # IA-TESIS
 
-El prouecto requiere de XPDF para poder transformar de pdf a txt
+El proyecto requiere de XPDF para poder transformar de pdf a txt
   Descargar en : http://www.foolabs.com/xpdf/
   
   
