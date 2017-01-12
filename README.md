@@ -1,4 +1,6 @@
-# IA-TESIS
+# SCRIPTS_PHP
+
+Son varios scripts en php que quiero revisar de nuevo cuando los necesite
 
 El proyecto requiere de XPDF para poder transformar de pdf a txt
   Descargar en : http://www.foolabs.com/xpdf/
